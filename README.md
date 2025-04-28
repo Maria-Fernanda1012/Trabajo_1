@@ -8,7 +8,7 @@
 ## 2. Vínculos Académicos y Descripción
 - María Fernanda: Soy estudiante de Ingenieria Industrial, actualmente curso mi 5 semestre. Me destaco por mi capacidad para colaborar de manera efectiva, tanto en proyectos individuales como en grupos. Mi enfoque se basa en la comunicación abierta, el respeto por las ideas de los demás y la capacidad de escuchar activamente. Mis principales fortalezas y habilidades son: Comunicación efectiva, capacidad para adaptarme, trabajo en equipo, responsabilidad y compromiso. 
 - Lorena: Soy estudiante de Ingeniería Industrial, me caracterizo por tener una excelente disposición para aprender y enfrentar nuevos retos. Poseo habilidades para trabajar de manera autónoma o en equipo y me distingo por una actitud orientada al crecimiento continuo y a la búsqueda de soluciones innovadoras.
-- Anny:
+- Anny: Soy estudiante de Ingeniería Industrial, actualmente cursando el 5to semestre de la carrera. Me considero una persona con un carácter firme, responsable, comprometida y proactiva en los trabajos que se me asignen, tanto grupales como individuales, tengo una alta capacidad para la resolución de problemas y del fomento de la comunicación asertiva, escuchando a mis compañeros para mantener un ambiente de trabajo positivo. Además, en ocasiones asumo roles de liderazgo para apoyar al equipo en sacar adelante los trabajos.
   
 ![WhatsApp Image 2025-04-27 at 8 49 33 PM](https://github.com/user-attachments/assets/51e1028c-1a97-434a-b7ab-b6e774a02c1f)
 ## 3. Nombre del Proyecto y Detalles. 
