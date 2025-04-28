@@ -80,6 +80,7 @@ Horas estándar de práctica por mes: 240 horas
 Valor hora de práctica: 1.423.500/240 = 5.931 precio hora.
 Cálculo del presupuesto del proyecto: 150 horas × 5.931 ≈ 889.650.
 -El valor equivalente del proyecto en tiempo de práctica es: 889.650 pesos.
+
 **Nota:** En este proyecto no se recibirá un pago monetario, ya que su finalidad principal es académica y formativa. Sin embargo, se va a obtener experiencia práctica, fortalecerán sus habilidades profesionales y aplicarán los conocimientos adquiridos en su proceso de formación.
 
 ## 8.Plan de versionado
