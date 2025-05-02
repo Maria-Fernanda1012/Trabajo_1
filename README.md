@@ -18,6 +18,28 @@ Promover un ambiente de trabajo colaborativo  y respetuoso entre nosotras las in
 **Expectativas de los miembros:**
 Como grupo, esperamos aplicar nuestros conocimientos en los entornos interactivos (Colab) para desarrollar un sistema funcional y óptimo, cumpliendo con los entregables de forma responsable y puntual, nos comprometemos a mantener una comunicación efectiva y asertiva, apoyando con sugerencias constructivas y trabajando de manera equitativa. Además, de buscar y adquirir experiencia en trabajo colaborativo utilizando herramientas como GitHub para gestionar el proyecto de forma organizada.
 
+## Acta de Colaboración
+- Semana 7
+
+El presente documento tiene como objetivo establecer reglas que nos ayuden a llevar a cabo este proyecto desde la colaboración y entendimiento entre las integrantes del grupo. Con este acta se busca promover un ambiente de trabajo respetuoso, eficiente y colaborativo.
+
+**Metodología de Trabajo**
+- Reuniones virtuales dos veces a la semana por Google Meet (Lunes y viernes 6:00 p.m.).
+- Gestión del proyecto mediante GitHub, en nuestro caso la anfitriona del repositorio  es Maria Fernanda.
+- Revisión de avances en cada reunión.
+- División de tareas según fortalezas técnicas de los integrantes, sin embargo entre las tres nos apoyaremos en lo que más podamos.
+
+**Estrategias de Comunicación**
+- Grupo de WhatsApp para comunicación rápida.
+- GitHub como fuente central del informe y control de versiones.
+- También manejaremos el Correo electrónico.
+
+**Resolución de Conflictos**
+
+- Escuchar activamente a todos los miembros.
+- Votar entre los integrantes en caso de desacuerdo.
+- Si no se resuelve, se solicitará mediación del docente.
+- Mantener una comunicación abierta y respetuosa, abordando cualquier conflicto de manera constructiva.
 
 ## LMA Parking Lott
 
