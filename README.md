@@ -136,4 +136,4 @@ LMA Parking Lott es una aplicación desarrollada con el fin de gestionar de mane
 - Horas estándar de práctica por mes: 240 horas
 - Valor hora de práctica: 1.423.500/240 = 5.931 precio hora.
 - Cálculo del presupuesto del proyecto: 120 horas × 5.931 = 711.720
--El valor equivalente del proyecto en tiempo de práctica es: 711.720 pesos.
+- El valor equivalente del proyecto en tiempo de práctica es: 711.720 pesos.
