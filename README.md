@@ -1,3 +1,19 @@
+# Acta de Entendimiento
+- Semana 7
+
+**Objetivo de este acta:**
+Promover un ambiente de trabajo colaborativo  y respetuoso entre nosotros los integrantes de este grupo para el desarrollo de este proyecto. Buscando cumplir con nuestros objetivos comunes, comprometiéndonos a cumplir con nuestros roles y responsabilidades. 
+
+**Objetivos Comunes:**
+- Cumplir con los requisitos técnicos y funcionales establecidos por el docente.
+- Fomentar el trabajo colaborativo, con una comunicación clara, respetuosa y constante.
+- Finalizar el proyecto en el plazo establecido, asegurando entregar un proyecto de buena calidad, claridad y eficiencia.
+
+**Expectativas de los miembros:**
+Como grupo, esperamos aplicar nuestros conocimientos en los entornos interactivos (Colab) para desarrollar un sistema funcional y óptimo, cumpliendo con los entregables de forma responsable y puntual, nos comprometemos a mantener una comunicación efectiva y asertiva, apoyando con sugerencias constructivas y trabajando de manera equitativa. Además, de buscar y adquirir experiencia en trabajo colaborativo utilizando herramientas como GitHub para gestionar el proyecto de forma organizada.
+
+
+
 # Trabajo_1
 ## 1. Integrantes
 - María Fernanda Solis Castro
