@@ -7,7 +7,6 @@
 ## Acta de Entendimiento
 - Semana 7
 
-**Objetivo de este acta:**
 Promover un ambiente de trabajo colaborativo  y respetuoso entre nosotras las integrantes de este grupo para el desarrollo de este proyecto. Buscando cumplir con nuestros objetivos comunes, comprometiéndonos a cumplir con nuestros roles y responsabilidades. 
 
 **Objetivos Comunes:**
@@ -61,9 +60,8 @@ Esta distribución refleja una alta colaboración grupal junto con aportes indiv
   - Todas debemos de participar en la sustentación final (Semana 16 ).
 
 Estas actas podrán ser revisada y modificada en caso de que surjan nuevas circunstancias o necesidades del grupo. Cualquier cambio deberá ser acordado por todos los miembros del grupo.
-![WhatsApp_Image_2025-05-01_at_8 17 16_PM-removebg-preview (2)](https://github.com/user-attachments/assets/ab019c9c-7d75-454f-812f-64838bbae92c)
-![WhatsApp_Image_2025-05-01_at_8 10 36_PM-removebg-preview (1)](https://github.com/user-attachments/assets/4ff53628-7747-4223-bbb0-e960a29e9745)
-![WhatsApp_Image_2025-05-01_at_10 15 19_PM-removebg-preview (1)](https://github.com/user-attachments/assets/2808070e-8e9f-4c4d-86d9-30e1201fda51)
+
+![firmas](https://github.com/user-attachments/assets/e2149302-c91c-407b-8cf6-5ac5cbc2659c)
 
 ## LMA Parking Lott
 
