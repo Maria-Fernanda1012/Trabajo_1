@@ -2,7 +2,7 @@
 - Semana 7
 
 **Objetivo de este acta:**
-Promover un ambiente de trabajo colaborativo  y respetuoso entre nosotros los integrantes de este grupo para el desarrollo de este proyecto. Buscando cumplir con nuestros objetivos comunes, comprometiéndonos a cumplir con nuestros roles y responsabilidades. 
+Promover un ambiente de trabajo colaborativo  y respetuoso entre nosotras las integrantes de este grupo para el desarrollo de este proyecto. Buscando cumplir con nuestros objetivos comunes, comprometiéndonos a cumplir con nuestros roles y responsabilidades. 
 
 **Objetivos Comunes:**
 - Cumplir con los requisitos técnicos y funcionales establecidos por el docente.
