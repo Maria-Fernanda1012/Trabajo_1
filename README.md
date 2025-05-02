@@ -1,4 +1,10 @@
-# Acta de Entendimiento
+# Trabajo 1
+## 1. Integrantes
+- María Fernanda Solis Castro
+- Lorena Salcedo Montiel
+- Anny Sofia Meneses Ardila
+  
+## Acta de Entendimiento
 - Semana 7
 
 **Objetivo de este acta:**
@@ -13,12 +19,7 @@ Promover un ambiente de trabajo colaborativo  y respetuoso entre nosotras las in
 Como grupo, esperamos aplicar nuestros conocimientos en los entornos interactivos (Colab) para desarrollar un sistema funcional y óptimo, cumpliendo con los entregables de forma responsable y puntual, nos comprometemos a mantener una comunicación efectiva y asertiva, apoyando con sugerencias constructivas y trabajando de manera equitativa. Además, de buscar y adquirir experiencia en trabajo colaborativo utilizando herramientas como GitHub para gestionar el proyecto de forma organizada.
 
 
-
-# Trabajo_1
-## 1. Integrantes
-- María Fernanda Solis Castro
-- Lorena Salcedo Montiel
-- Anny Sofia Meneses Ardila
+## LMA Parking Lott
 
 **Descripción:** Proyecto para la gestión y control de vehiculos en el parqueadero LMA Parking Lott.
 ## 2. Vínculos Académicos y Descripción
