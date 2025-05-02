@@ -35,11 +35,25 @@ El presente documento tiene como objetivo establecer reglas que nos ayuden a lle
 - También manejaremos el Correo electrónico.
 
 **Resolución de Conflictos**
-
 - Escuchar activamente a todos los miembros.
 - Votar entre los integrantes en caso de desacuerdo.
 - Si no se resuelve, se solicitará mediación del docente.
 - Mantener una comunicación abierta y respetuosa, abordando cualquier conflicto de manera constructiva.
+
+  ## Acta de Responsabilidad
+  - Semana 7
+
+Tiene como finalidad asignar tareas específicas para cada integrante de este grupo, estableciendo plazos y criterios de evaluación. Cada integrante se hace responsable de cumplir con sus obligaciones para asegurar el éxito del proyecto.
+
+ **Evaluación:**
+  - Cada miembro será responsable de revisar su módulo antes de integrarlo.
+  - Se harán revisiones para detectar errores o mejoras.
+  - Todas debemos de participar en la sustentación final (Semana 16 ).
+
+Esta acta podrá ser revisada y modificada en caso de que surjan nuevas circunstancias o necesidades del grupo. Cualquier cambio deberá ser acordado por todos los miembros del grupo.
+![WhatsApp_Image_2025-05-01_at_8 17 16_PM-removebg-preview (2)](https://github.com/user-attachments/assets/ab019c9c-7d75-454f-812f-64838bbae92c)
+![WhatsApp_Image_2025-05-01_at_8 10 36_PM-removebg-preview (1)](https://github.com/user-attachments/assets/4ff53628-7747-4223-bbb0-e960a29e9745)
+![WhatsApp_Image_2025-05-01_at_10 15 19_PM-removebg-preview (1)](https://github.com/user-attachments/assets/2808070e-8e9f-4c4d-86d9-30e1201fda51)
 
 ## LMA Parking Lott
 
@@ -94,36 +108,32 @@ LMA Parking Lott es una aplicación desarrollada con el fin de gestionar de mane
 - Compatibilidad:El sistema debe ser compatible con plataformas Windows y Linux, sin requerir configuraciones adicionales, y funcionar en computadoras de escritorio y laptops.
 
 ## 7. Plan de proyecto
-- Reunión Inicial: Definición de roles, normas de trabajo y expectativas.
-- Creación del repositorio GitHub y documentación: Escribir README.md, documentar su uso incluyendo instrucciones de instalación, ejecución.
-- Análisis de requerimientos: Asesoria con el profesor o monitor para definir detalles del sistema y aclarar dudas.
-- Diseño de la estructura del software: Diseño de menús, la estructura general de clases, los métodos principales y la lógica del sistema, estableciendo una arquitectura clara y modular.
-- Programación de registro de usuarios: Desarrollo de módulo implementando validaciones estrictas para nombres, documentos de identidad y placas de vehículos.
-- Programación de ingreso/retiro de vehículos: Desarrollo de módulos de ingreso y retiro, cálculo de cobros.
-- Programación del módulo de administrador:	Desarrollar funcionalidades para la generación de reportes administrativos, incluyendo estadísticas de vehículos, pagos realizados y tiempos de estancia promedio.
-- Implementación de exportación a CSV: Exportar datos (usuarios, vehículos, reportes) facilitando el análisis externo de los datos.
-- Implementación del log de eventos: Registrar actividades del sistema en archivo de log (fecha, hora, acción, tiempo).
-- Pruebas del sistema: Validar todas las funcionalidades del sistema y corregir errores, flujo completo, reportes.
-
+- ***Integrantes:*** listar los nombres completos de los integrantes del equipo junto con una breve presentación de cada uno.
+- ***Vínculos Académicos y Descripción:*** Registrar el programa académico al que pertenece cada integrante, así como una descripción personal donde se incluyan sus habilidades técnicas y fortalezas individuales.
+- ***Nombre del Proyecto y Detalles:*** Definir el nombre y acompañarlo de un logo y realizar una breve descripción del objetivo general del software.
+- ***Licencia del software:*** Seleccionar y registrar una licencia de software adecuada.
+- ***Reporte de visión:*** Redactar un documento que describa de forma general el sistema, sus objetivos principales y los beneficios esperados tanto para los usuarios como para los desarrolladores.
+- ***Especificación de requisitos:*** Elaborar una lista clara de requisitos funcionales y no funcionales.
+- ***Plan de proyecto:*** Describir las actividades, cronograma (diagrama de Gantt) y presupuesto.
+- ***Plan de versionado:*** Definir una estrategia de control de versiones utilizando GitHub, organizar ramas, establecer convenciones de nombres para commits y registrar versiones significativas del software.
+- ***Algoritmo:*** Desarrollar y presentar el algoritmo principal del sistema, explicando la lógica general del ingreso, retiro de vehículos, cálculos y reportes.
+- ***Manual de usuario:*** Realizar el documento que explique de forma clara y paso a paso cómo utilizar el software, incluyendo ejemplos, validaciones y posibles errores con sus respectivas soluciones.
+- ***Repositorio en GitHub:*** Almacenar el código y documentación de forma organizada y actualizados en un repositorio público de GitHub, donde se evidencie el trabajo colaborativo.
+- ***Sustentaciones:*** Preparar y realizar las presentaciones requeridas durante el proceso de evaluación del proyecto, explicando avances, cambios y funcionalidades implementadas.
+- ***Fechas y documentos:*** Llevar registro de fechas importantes como entregas parciales, reuniones, pruebas y entrega final. También se deben anexar las actas de compromiso, colaboración y responsabilidad.
+  
 **Diagrama de Gantt**
-![WhatsApp Image 2025-04-27 at 10 46 39 PM (1)](https://github.com/user-attachments/assets/ca53bee3-d5dc-43e7-bbf6-89f743c9794f)
+![WhatsApp Image 2025-05-01 at 8 14 31 PM](https://github.com/user-attachments/assets/1286cae2-0faa-4f5a-9ff1-aadc90bf6abe)
 
 **Presupuesto del proyecto**
-Modalidad de Pago: El proyecto no será remunerado en dinero, se reconocerá como tiempo de práctica de formación profesional.
-Datos generales:
--Número de estudiantes: 3
--Horas invertidas por cada estudiante: 50 horas.
--Total de horas grupo: 150 horas.
-Salario mínimo 2025 (SMLV): $1.423.500
-Horas estándar de práctica por mes: 240 horas
-Valor hora de práctica: 1.423.500/240 = 5.931 precio hora.
-Cálculo del presupuesto del proyecto: 150 horas × 5.931 ≈ 889.650.
--El valor equivalente del proyecto en tiempo de práctica es: 889.650 pesos.
+- Modalidad de Pago: Este proyecto no contempla la remuneración monetaria, ya que su propósito fundamental es académico. A través de su desarrollo, vamos a obtener una experiencia práctica, fortaleciendo competencias profesionales, y aplicando los conocimientos teóricos aprendidos en las clases. Esta actividad contribuye directamente al desarrollo integral en un contexto real de trabajo, cumpliendo funciones de valor tanto técnico como formativo.
 
-**Nota:** En este proyecto no se recibirá un pago monetario, ya que su finalidad principal es académica y formativa. Sin embargo, se va a obtener experiencia práctica, fortalecerán sus habilidades profesionales y aplicarán los conocimientos adquiridos en su proceso de formación.
-
-## 8.Plan de versionado
-
-
-
-
+**Datos generales:**
+- Número de estudiantes: 3
+- Horas invertidas por cada estudiante: 40 horas.
+- Total de horas grupo: 120 horas.
+- Salario mínimo 2025 (SMLV): $1.423.500 
+- Horas estándar de práctica por mes: 240 horas
+- Valor hora de práctica: 1.423.500/240 = 5.931 precio hora.
+- Cálculo del presupuesto del proyecto: 120 horas × 5.931 = 711.720
+-El valor equivalente del proyecto en tiempo de práctica es: 711.720 pesos.
