@@ -41,16 +41,26 @@ El presente documento tiene como objetivo establecer reglas que nos ayuden a lle
 - Mantener una comunicación abierta y respetuosa, abordando cualquier conflicto de manera constructiva.
 
   ## Acta de Responsabilidad
-  - Semana 7
+- Semana 7
 
 Tiene como finalidad asignar tareas específicas para cada integrante de este grupo, estableciendo plazos y criterios de evaluación. Cada integrante se hace responsable de cumplir con sus obligaciones para asegurar el éxito del proyecto.
+
+**Asignación de Tareas:**
+Como parte de la planificación del proyecto LMA Parking Lott, se establecieron 13 actividades fundamentales a lo largo de las semanas de trabajo. La asignación de estas tareas se realizó de manera estratégica entre las integrantes del equipo, buscando una participación balanceada y colaborativa. A continuación, se presenta la proporción de responsabilidades asumidas por cada miembro del grupo, en función del número de actividades que se les asignaron.
+
+- Todos los integrantes del equipo compartieron la responsabilidad de siete actividades: Integrantes, Vínculos Académicos y Descripción, Nombre del Proyecto y Detalles, Plan de Proyecto, Algoritmo, Sustentaciones y Fechas y Documentos. Esta participación grupal representa el 53.85% del total del proyecto.
+- Anny estuvo a cargo de dos actividades: Licencia del Software y Plan de Versionado, lo que corresponde a un 15.38% de participación.
+- María Fernanda también asumió dos responsabilidades: Reporte de Visión y GitHub, representando otro 15.38% del total.
+- Lorena gestionó dos tareas clave: Especificación de Requisitos y Manual de Usuario, con una participación del 15.38%.
+
+Esta distribución refleja una alta colaboración grupal junto con aportes individuales específicos, lo que permitió avanzar de manera organizada y equitativa en cada fase del proyecto.
 
  **Evaluación:**
   - Cada miembro será responsable de revisar su módulo antes de integrarlo.
   - Se harán revisiones para detectar errores o mejoras.
   - Todas debemos de participar en la sustentación final (Semana 16 ).
 
-Esta acta podrá ser revisada y modificada en caso de que surjan nuevas circunstancias o necesidades del grupo. Cualquier cambio deberá ser acordado por todos los miembros del grupo.
+Estas actas podrán ser revisada y modificada en caso de que surjan nuevas circunstancias o necesidades del grupo. Cualquier cambio deberá ser acordado por todos los miembros del grupo.
 ![WhatsApp_Image_2025-05-01_at_8 17 16_PM-removebg-preview (2)](https://github.com/user-attachments/assets/ab019c9c-7d75-454f-812f-64838bbae92c)
 ![WhatsApp_Image_2025-05-01_at_8 10 36_PM-removebg-preview (1)](https://github.com/user-attachments/assets/4ff53628-7747-4223-bbb0-e960a29e9745)
 ![WhatsApp_Image_2025-05-01_at_10 15 19_PM-removebg-preview (1)](https://github.com/user-attachments/assets/2808070e-8e9f-4c4d-86d9-30e1201fda51)
@@ -123,7 +133,9 @@ LMA Parking Lott es una aplicación desarrollada con el fin de gestionar de mane
 - ***Fechas y documentos:*** Llevar registro de fechas importantes como entregas parciales, reuniones, pruebas y entrega final. También se deben anexar las actas de compromiso, colaboración y responsabilidad.
   
 **Diagrama de Gantt**
-![WhatsApp Image 2025-05-01 at 8 14 31 PM](https://github.com/user-attachments/assets/1286cae2-0faa-4f5a-9ff1-aadc90bf6abe)
+![WhatsApp Image 2025-05-02 at 1 16 23 PM](https://github.com/user-attachments/assets/78fe66cc-2f2d-47ce-a595-07d0db958c89)
+
+
 
 **Presupuesto del proyecto**
 - Modalidad de Pago: Este proyecto no contempla la remuneración monetaria, ya que su propósito fundamental es académico. A través de su desarrollo, vamos a obtener una experiencia práctica, fortaleciendo competencias profesionales, y aplicando los conocimientos teóricos aprendidos en las clases. Esta actividad contribuye directamente al desarrollo integral en un contexto real de trabajo, cumpliendo funciones de valor tanto técnico como formativo.
