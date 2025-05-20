@@ -174,6 +174,8 @@ LMA Parking Lott es una aplicación desarrollada con el fin de gestionar de mane
 - Total de horas grupo: 120 horas.
 - Salario mínimo 2025 (SMLV): $1.423.500 
 - Horas estándar de práctica por mes: 240 horas
-- Valor hora de práctica: 1.423.500/240 = 5.931 precio hora.
-- Cálculo del presupuesto del proyecto: 120 horas × 5.931 = 711.720
+- Valor hora de práctica = 5.931 precio hora.
+- Cálculo del presupuesto del proyecto = 711.720
 - El valor equivalente del proyecto en tiempo de práctica es: 711.720 pesos.
+
+  https://docs.google.com/spreadsheets/d/11lui8fjX45gSNdaksFzIk7GwOIPJ2CSCu6bTifh-1Fc/edit?usp=sharing
