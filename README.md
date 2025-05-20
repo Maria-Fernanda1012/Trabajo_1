@@ -68,7 +68,7 @@ Estas actas podrán ser revisada y modificada en caso de que surjan nuevas circu
 **Descripción:** Proyecto para la gestión y control de vehiculos en el parqueadero LMA Parking Lott.
 ## 2. Vínculos Académicos y Descripción
 - María Fernanda: Soy estudiante de Ingenieria Industrial Virtual de la seccional Suroeste (Andes), actualmente curso mi 5 semestre. Me destaco por mi capacidad para colaborar de manera efectiva, tanto en proyectos individuales como en grupos. Mi enfoque se basa en la comunicación abierta, el respeto por las ideas de los demás y la capacidad de escuchar activamente. Mis principales fortalezas y habilidades son: Comunicación efectiva, capacidad para adaptarme, trabajo en equipo, responsabilidad y compromiso. 
-- Lorena: Soy estudiante de Ingeniería Industrial Virtutal de la seccional Orinete (Carmen de Viboral), me caracterizo por tener una excelente disposición para aprender y enfrentar nuevos retos. Poseo habilidades para trabajar de manera autónoma o en equipo y me distingo por una actitud orientada al crecimiento continuo y a la búsqueda de soluciones innovadoras.
+- Lorena: Soy estudiante de Ingeniería Industrial Virtutal de la seccional Orinete (Carmen de Viboral), actualmente estoy cursando mi 5to semestre. Me caracterizo por tener una excelente disposición para aprender y enfrentar nuevos retos. Poseo habilidades para trabajar de manera autónoma o en equipo y me distingo por una actitud orientada al crecimiento continuo y a la búsqueda de soluciones innovadoras.
 - Anny: Soy estudiante de Ingeniería Industrial Virtual de la seccional Bajo Cauca (Caucasia), actualmente cursando el 5to semestre de la carrera. Me considero una persona con un carácter firme, responsable, comprometida y proactiva en los trabajos que se me asignen, tanto grupales como individuales, tengo una alta capacidad para la resolución de problemas y del fomento de la comunicación asertiva, escuchando a mis compañeros para mantener un ambiente de trabajo positivo. Además, en ocasiones asumo roles de liderazgo para apoyar al equipo en sacar adelante los trabajos.
   
 ![WhatsApp Image 2025-04-27 at 8 49 33 PM](https://github.com/user-attachments/assets/51e1028c-1a97-434a-b7ab-b6e774a02c1f)
@@ -99,6 +99,36 @@ LMA Parking Lott es una aplicación desarrollada con el fin de gestionar de mane
 - Ahorro de tiempo y disminución del tráfico en el parqueadero.
 - Mejora de la experiencia del usuario al brindar información actualizada.
 - Mejora la eficiencia administrativa del parqueadero.
+
+**Exportación de Datos:**
+
+*La aplicación permite exportar información en **tiempo real** en diversos formatos como:*
+- Excel (.xlsx) - El objetivo de este formato es para exportar análisis y seguimiento administrativo.
+- PDF (.pdf) - El objetivo de este formato es para exportar los reportes y presentaciones.
+- CSV (.csv) - El objetivo de este formato es para la inteoperabilidad con otros sistemas.
+- JSON (.json) - El objetivo de este formato es para integraciones con APls (Application Programming Interface) o desarrollos externos.
+
+**Acceso a la Información y Roles de Usuario:**
+
+**1. Usuarios Estándar**
+- Tienen acceso a través de app móvil o web.
+- Pueden registrar vehículos, buscar y reservar espacios.
+- No tienen acceso a reportes, ni exportación de datos.
+
+**2. Administradores y/o Personal del Parqueadero**
+- Acceden mediante plataforma web con autenticación.
+- Gestionan entradas, salidas, disponibilidad de espacios y reportes.
+- Tienen acceso a la exportación de datos según sus permisos.
+
+**3. Super Usuarios**
+- Acceden con credenciales especiales y autenticación de dos factores (2FA).
+- Tienen permisos totales como, configuraciones del sistema, manejo de usuarios, estadísticas generales y exportación completa de datos.
+- Son responsables del mantenimiento y administración superior del sistema.
+
+**Seguridad:**
+- Inicio de sesión seguro con credenciales.
+- Roles diferenciados con permisos personalizados.
+- Registro de actividad (logs) para trazabilidad y auditoría.
 
 ## 6. Especificación de requisitos
 **Requisitos Funcionales:**
