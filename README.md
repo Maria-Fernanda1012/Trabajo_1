@@ -179,3 +179,7 @@ LMA Parking Lott es una aplicación desarrollada con el fin de gestionar de mane
 - El valor equivalente del proyecto en tiempo de práctica es: 711.720 pesos.
 
   https://docs.google.com/spreadsheets/d/11lui8fjX45gSNdaksFzIk7GwOIPJ2CSCu6bTifh-1Fc/edit?usp=sharing
+
+  ## 8. Plan Versionado
+  
+  https://docs.google.com/spreadsheets/d/1WP5--VkLvJqOZzufGqnR8k1_r3h4CSZsbebh2VThBXA/edit?usp=sharing
