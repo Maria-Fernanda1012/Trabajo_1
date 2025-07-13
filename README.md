@@ -181,5 +181,21 @@ LMA Parking Lott es una aplicación desarrollada con el fin de gestionar de mane
   https://docs.google.com/spreadsheets/d/11lui8fjX45gSNdaksFzIk7GwOIPJ2CSCu6bTifh-1Fc/edit?usp=sharing
 
   ## 8. Plan Versionado
+- V.0.2.0 
+- V.0.3.0 
+- V.0.4.0 
+- V.0.5.0 
+- V.0.6.0
+- V.0.7.0 
+- V.0.8.0 
+- V.0.9.0 
+- V.0.1.0 
+- V.1.1.0
+- V.1.1.1 
+- V.1.1.2 
+- V.1.1.3 
+- V.1.2.0
+- V.1.3.0 
+- V.1.4.0
   
   https://docs.google.com/spreadsheets/d/1WP5--VkLvJqOZzufGqnR8k1_r3h4CSZsbebh2VThBXA/edit?usp=sharing
